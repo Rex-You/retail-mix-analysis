@@ -1,5 +1,7 @@
 # 零售销售与商品结构分析
 
+[在线演示 · 打开分析看板](https://retail-mix-analysis-9nqqx2u6mathhodbfunom3.streamlit.app/)
+
 基于 **UCI Online Retail II** 百万条交易明细，分析销售增长、商品贡献与客户复购。使用 Python 计算指标、SQLite 复核结果，并通过 Streamlit 展示。
 
 项目围绕三个问题展开：销售额增长来自订单量还是客单价？哪些商品贡献了增长？客户是否持续回购？
